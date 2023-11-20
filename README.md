@@ -1,10 +1,10 @@
-# Personal Portfolio
+# Typescript & React Notes
 
 ## App Repo 
 https://github.com/FelixW01/react-typescript-practice
 
 ## Description
-
+Notes on the journey of learning Typescript with React.
 
 ## Table of Contents
 - [Installation](#installation)
