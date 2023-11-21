@@ -1,10 +1,10 @@
-# Typescript & React Notes
+# To-do list app(Typescript & React)
 
 ## App Repo 
 https://github.com/FelixW01/react-typescript-notes
 
 ## Description
-Notes on the journey of learning Typescript with React.
+A simple to-do list app created mainly with Typescript and React. This project was created mainly for the sole purpose of deeper understanding how Typescript works with React.
 
 ## Table of Contents
 - [Installation](#installation)
