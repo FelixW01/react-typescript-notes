@@ -8,7 +8,10 @@ const App: React.FC = () => {
 
   const todoAddHandler = (text: string) => {
     console.log(text);
-    setTodos([...todos, { id: Math.random().toString(), text: text }]);
+    setTodos((prevTodos) => [
+      ...prevTodos,
+      { id: Math.random().toString(), text: text },
+    ]);
   };
 
   return (
